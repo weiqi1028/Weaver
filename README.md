@@ -9,3 +9,6 @@ Weaver is a high performance http server written in C. It uses epoll to handle n
   2. Run ```./weaver [port]```, where port is your port number that the server is listening.
 
 I will add config file shortly.
+
+Reference:
+Computer Systems: A Programmer's Perspective
